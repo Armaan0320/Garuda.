@@ -1,0 +1,6 @@
+flask
+openai
+gtts
+tempfile
+logging
+base64
