@@ -7,7 +7,7 @@ import base64
 
 
 app = Flask(__name__, static_url_path='/static')
-openai.api_key = "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"
+#openai.api_key = "your api key"
 
 
 def chatgpt_api_call(condition, severity):
